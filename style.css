@@ -1,12 +1,26 @@
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #00ffff80;
 }
 h1{
     text-align: center;
 }
 img{
-    width: 500px;
-    height: auto;
-    align-self: center;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+.header{
+    border: 2px solid rgb(74, 188, 223);
+    border-radius: 5px;
+    margin: 10px 50px;
+}
+.lists{
+    font-size: 30px;
+    align-items: center;
+    margin: 15px 50px;
+    padding-left: 50px;
+}
+.rec-img{
+
 }
